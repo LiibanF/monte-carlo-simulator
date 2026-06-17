@@ -1,23 +1,22 @@
 # Monte Carlo Simulator
+**Python | NumPy | Matplotlib**
 
-## Overview
-A Python-based Monte Carlo simulation project that models probabilistic systems such as coin flips and dice rolls. The program performs statistical analysis and visualises convergence behavior using simulations.
+A Monte Carlo engine modelling probabilistic systems across configurable 
+parameters. Implements statistical analysis from scratch and visualises 
+convergence behaviour empirically, demonstrating the Law of Large Numbers 
+across large sample sizes.
 
 ## Features
 - Coin flip simulation with adjustable bias
-- Dice roll simulation with configurable number of sides
-- Frequency and probability calculations
-- Mean, variance, and standard deviation
-- Monte Carlo convergence experiments
-- Data visualisation:
-  - Histogram of outcomes
-  - Convergence graph of mean values
+- Dice roll simulation with configurable sides
+- Statistical computations: mean, variance, standard deviation
+- Convergence experiments across increasing sample sizes
+- Visualisations: outcome histograms and running-mean convergence graphs
 
 ## Concepts Demonstrated
 - Monte Carlo Simulation
 - Law of Large Numbers
-- Probability Distributions
-- Statistical Analysis
+- Probability Distributions & Statistical Analysis
 
 ## How to Run
 
